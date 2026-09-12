@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\proyecto final de analisis  II  APPI\\BioRed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\UserSecrets\\7ab7c457-fe2a-4673-a4d1-62133c4f00f1\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\proyecto final de analisis  II  APPI\\BioRed.Infrastructure\\Promotions\\PromotionManagementService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Downloads\\proyecto final de analisis  II  APPI\\BioRed.Infrastructure\\Persistence\\BioRedDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\UserSecrets\\7ab7c457-fe2a-4673-a4d1-62133c4f00f1\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7ab7c457-fe2a-4673-a4d1-62133c4f00f1\\secrets.json",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Roaming\\Microsoft\\UserSecrets\\7ab7c457-fe2a-4673-a4d1-62133c4f00f1\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\7ab7c457-fe2a-4673-a4d1-62133c4f00f1\\secrets.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-12T02:36:12.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PromotionManagementService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\proyecto final de analisis  II  APPI\\BioRed.Infrastructure\\Promotions\\PromotionManagementService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\proyecto final de analisis  II  APPI\\BioRed.Infrastructure\\Promotions\\PromotionManagementService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\proyecto final de analisis  II  APPI\\BioRed.Infrastructure\\Promotions\\PromotionManagementService.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\proyecto final de analisis  II  APPI\\BioRed.Infrastructure\\Promotions\\PromotionManagementService.cs",
+              "ViewState": "AgIAALwAAAAAAAAAAAAowMEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T00:27:02.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BioRedDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\proyecto final de analisis  II  APPI\\BioRed.Infrastructure\\Persistence\\BioRedDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\proyecto final de analisis  II  APPI\\BioRed.Infrastructure\\Persistence\\BioRedDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\proyecto final de analisis  II  APPI\\BioRed.Infrastructure\\Persistence\\BioRedDbContext.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\proyecto final de analisis  II  APPI\\BioRed.Infrastructure\\Persistence\\BioRedDbContext.cs",
+              "ViewState": "AgIAAEECAAAAAAAAAAAUwGACAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-12T00:22:01.14Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

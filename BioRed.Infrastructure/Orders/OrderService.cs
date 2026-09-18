@@ -754,7 +754,7 @@ public sealed class OrderService : IOrderService
 
         var driverCanChange =
             isAssignedDriver &&
-            newStatus is "En Camino" or "Entregado";
+            newStatus is "En Preparación" or "En Camino" or "Entregado";
 
         if (!canManageAnyOrder && !driverCanChange)
         {
